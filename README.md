@@ -1,0 +1,1 @@
+This is the DNA methylation age prediction project I did on a Bipolar patient cohort. The main packages I used are dnaMethyAge and minfi. The next step is to discover the difference between diseased and control groups. Still working on it!
